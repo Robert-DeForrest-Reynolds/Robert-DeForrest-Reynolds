@@ -1,6 +1,6 @@
-## Smile Away, We're Alive Today
-
 <span align=center>
+  
+$\color{violet}{\textsf{Smile Away, We're Alive Today}}$
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robert-deforrest-reynolds&theme=radical)](https://git.io/streak-stats)
 
