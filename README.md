@@ -4,7 +4,6 @@
 
 [![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-deforrest-reynolds&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-</span>
 
   ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robert-deforrest-reynolds&repo=elij&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -27,3 +26,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</span>
