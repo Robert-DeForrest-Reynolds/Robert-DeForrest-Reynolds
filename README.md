@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-deforrest-reynolds&theme=radical)](https://github.com/anuraghazra/github-readme-stats))
+[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-deforrest-reynolds&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robert-deforrest-reynolds&repo=elij&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robert-deforrest-reynolds&repo=exofyle&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
