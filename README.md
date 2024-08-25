@@ -1,9 +1,9 @@
 ## Hi there 👋
 [![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-deforrest-reynolds&theme=radical)](https://github.com/anuraghazra/github-readme-stats))
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robert-deforrest-reynolds&repo=elij&theme=radical)](https://github.com/anuraghazra/github-readme-stats))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deforrest-studios&repo=recipsio&theme=radical)](https://github.com/anuraghazra/github-readme-stats))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deforrest-studios&repo=project-realm-of-conflict&theme=radical)](https://github.com/anuraghazra/github-readme-stats))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robert-deforrest-reynolds&repo=elij&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deforrest-studios&repo=recipsio&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deforrest-studios&repo=project-realm-of-conflict&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robert-deforrest-reynolds&langs_count=20&theme=radical)
 <!--
